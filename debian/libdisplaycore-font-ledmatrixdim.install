@@ -1,2 +1,4 @@
-LedMatrixDim.cpp libraries/DisplayCore/LedMatrixDim
-LedMatrixDim.h libraries/DisplayCore/LedMatrixDim
+library.json libraries/DisplayCore/LedMatrixDim
+library.properties libraries/DisplayCore/LedMatrixDim
+README.md libraries/DisplayCore/LedMatrixDim
+src libraries/DisplayCore/LedMatrixDim
