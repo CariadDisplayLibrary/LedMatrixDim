@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::LedMatrixDim 
 
-![LedMatrixDim](https://raw.githubusercontent.com/DisplayCore/LedMatrixDim/master/Preview/LedMatrixDim.png)
+![LedMatrixDim](https://raw.githubusercontent.com/Cariad/LedMatrixDim/master/Preview/LedMatrixDim.png)
 
